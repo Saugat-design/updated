@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>About Us</title>
+	<link rel="stylesheet" type="text/css" href="style3.css">
+	<link href="https://fonts.googleapis.com/css2?family=Flamenco&display=swap" rel="stylesheet">
+	
+</head>
+
+<body>
+	<div class="about-section">
+		<div class="inner-container">
+			<h1>About Us</h1>
+			<p class="text">
+				Our restaurant is a French Restaurant located in heart of Denmark,Copenhagen City which provides great pancakes as well as Service.You can enjoy your meal with your family,friends and loved ones on terrace enjoying the sunshine.We have a lot of variety in Pacakes as you can also see in the menu as well as different starter meal and Sweet pancakes as well.Suitable Place for every season as you can enjoy the sunshine while having the meal as we have the terrace and also in winter we have the underground floor which makes you feel warm and you can have celebrations with friends and family as we also serve drinks and for children we have juice etc and also you can takeaway the food.
+				   You don't have to worry about the price because the price range is not too much expensive ranging from only 
+				43-122 kr for the pancakes.
+			</p>
+			<h2> Address and Contact</h2>
+			<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.3182305315363!2d12.565824051455506!3d55.683454880439356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652530599368f13%3A0x6013a6b4ce3df9ee!2sRestaurant%20La%20Petanque!5e0!3m2!1sen!2sdk!4v1591564845370!5m2!1sen!2sdk" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></p>
+		
+		</div>
+	</div>
+</body>
+</html>

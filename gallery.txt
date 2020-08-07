@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<header>
+<meta charset="utf-8">
+<title>gallery.html</title>
+	<link rel="stylesheet" type="text/css" href="style2.css">
+	<link rel="stylesheet" type="text/css" href="lightbox.min.css">
+	<script type="text/javascript" src="jsgallery/lightbox-plus-jquery.min.js"></script>
+	<link href="https://fonts.googleapis.com/css2?family=Flamenco&display=swap" rel="stylesheet">
+</header>
+
+<body>
+	<h1> Gallery </h1>
+	<div class="gallery">
+		<a href="dishO.jpg" data-lightbox="my gallery" data-title="Pancake with Salad"><img src="dish.jpg"></a>
+		<a href="dish1O.jpeg"data-lightbox="my gallery" data-title="Pancake with Egg, Bacon & Mushroom "><img src="dish1.jpeg"></a>
+		<a href="dish2O.jpeg"data-lightbox="my gallery" data-title="Snail with Butter"><img src="dish2.jpeg"></a>
+		<a href="dish3O.jpg"data-lightbox="my gallery" data-title="Different Ham with Salad"><img src="dish3.jpg"></a>
+		<a href="dish4O.jpg"data-lightbox="my gallery" data-title="Salad with Bread and Goat cheese"><img src="dish4.jpg"></a>
+		<a href="dish5O.jpg"data-lightbox="my gallery" data-title="Sweet Pancake with apple and Caramel"><img src="dish5.jpg"></a>
+		<a href="dish5O.jpg"data-lightbox="my gallery" data-title="Menu"><img src="menujpg"></a>
+		<a href="dish6O.jpg"data-lightbox="my gallery" data-title="Dessert"><img src="dish6.jpg"></a>
+		<a href="dish7O.jpeg"data-lightbox="my gallery" data-title="Dessert"><img src="dish7.jpeg"></a>
+		<a href="dish8O.jpeg"data-lightbox="my gallery" data-title="Dessert"><img src="dish8.jpeg"></a>
+		<a href="menu.jpg"data-lightbox="my gallery" data-title="Menu"><img src="menu.jpg"></a>
+	</div> 
+	
+	
+</body>
+</html>
